@@ -1,2 +1,2 @@
 # SPR
-Statistical Pattern Recognition
+Repository of Statistical Pattern Recognition discipline
